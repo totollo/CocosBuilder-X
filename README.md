@@ -1,4 +1,4 @@
-cocosbuilder-pro
+cocosbuilder-x
 ================
 
 add a lot of amazing features . 
