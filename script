@@ -1,0 +1,1 @@
+./../scripts/CopyBuiltProduct.sh $CONFIGURATION_BUILD_DIR/ $SRCROOT/../build/ $PRODUCT_NAME.app 1

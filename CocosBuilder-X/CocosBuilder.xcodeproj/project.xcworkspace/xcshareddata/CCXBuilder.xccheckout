@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>14FFAB77-12EB-42D1-95B8-B2C0316420E3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CCXBuilder</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B3767A50-BA66-4CDB-87C0-75832ED873C9</key>
+		<string>svn://42.120.21.2</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CocosBuilder++/CCXBuilder/CCXBuilder.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B3767A50-BA66-4CDB-87C0-75832ED873C9</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>B3767A50-BA66-4CDB-87C0-75832ED873C9</key>
+		<string>svn://42.120.21.2</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://42.120.21.2/CocosBuilder++/CocosBuilder/CCXBuilder.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B3767A50-BA66-4CDB-87C0-75832ED873C9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B3767A50-BA66-4CDB-87C0-75832ED873C9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>totollo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
