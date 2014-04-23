@@ -97,8 +97,6 @@
 				<true/>
 			</dict>
 		</array>
-		<key>selected</key>
-		<true/>
 	</dict>
 	<key>notes</key>
 	<array/>
@@ -160,6 +158,62 @@
 			<key>width</key>
 			<integer>1136</integer>
 		</dict>
+		<dict>
+			<key>centeredOrigin</key>
+			<false/>
+			<key>ext</key>
+			<string>ipad iphonehd</string>
+			<key>height</key>
+			<integer>960</integer>
+			<key>name</key>
+			<string>640 960</string>
+			<key>scale</key>
+			<real>2</real>
+			<key>width</key>
+			<integer>640</integer>
+		</dict>
+		<dict>
+			<key>centeredOrigin</key>
+			<false/>
+			<key>ext</key>
+			<string>ipad iphonehd</string>
+			<key>height</key>
+			<integer>1024</integer>
+			<key>name</key>
+			<string>800 1280</string>
+			<key>scale</key>
+			<real>2</real>
+			<key>width</key>
+			<integer>640</integer>
+		</dict>
+		<dict>
+			<key>centeredOrigin</key>
+			<false/>
+			<key>ext</key>
+			<string>ipad iphonehd</string>
+			<key>height</key>
+			<integer>1066</integer>
+			<key>name</key>
+			<string>480 800</string>
+			<key>scale</key>
+			<real>2</real>
+			<key>width</key>
+			<integer>640</integer>
+		</dict>
+		<dict>
+			<key>centeredOrigin</key>
+			<false/>
+			<key>ext</key>
+			<string>ipad iphonehd</string>
+			<key>height</key>
+			<integer>1136</integer>
+			<key>name</key>
+			<string>720 1280 / 1136 640</string>
+			<key>scale</key>
+			<real>2</real>
+			<key>width</key>
+			<integer>640</integer>
+		</dict>
 	</array>
 	<key>sequences</key>
 	<array>
@@ -191,6 +245,8 @@
 			<integer>0</integer>
 			<key>soundChannel</key>
 			<dict>
+				<key>isExpanded</key>
+				<false/>
 				<key>keyframes</key>
 				<array/>
 				<key>type</key>
